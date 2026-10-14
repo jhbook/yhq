@@ -23,8 +23,8 @@
   </tr>
    <tr>
     <td align="center" width="180">
-      <img src="mtwmj.png" width="160" style="border-radius: 10px;"/><br/>
-      <b>美团外卖节</b>
+      <img src="![alt text](image-3.png)" width="160" style="border-radius: 10px;"/><br/>
+      <b>【主推】京东外卖-惊喜红包</b>
     </td>
     <td align="center" width="180">
       <img src="image.png" width="160" style="border-radius: 10px;"/><br/>
