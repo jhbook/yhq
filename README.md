@@ -54,8 +54,8 @@
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="sswf.png" width="160" style="border-radius: 10px;"/><br/>
+    <td align="center" width="380">
+      <img src="sswf.png" width="360" style="border-radius: 10px;"/><br/>
       <b>通天猴随身WiFi</b>
     </td>
   </tr>
@@ -68,8 +68,8 @@
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="image-8.png" width="160" style="border-radius: 10px;"/><br/>
+    <td align="center" width="380">
+      <img src="image-8.png" width="360" style="border-radius: 10px;"/><br/>
       <b>快递优惠码</b>
     </td>
   </tr>
