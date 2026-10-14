@@ -1,22 +1,3 @@
-<table border="0">
-  <tr>
-    <!-- 第一张二维码 -->
-    <td align="center" valign="top">
-      <img src="" width="200" alt="美团外卖"><br>
-      <sub></sub>
-    </td>
-    <!-- 第二张二维码 -->
-    <td align="center" valign="top">
-      <img src="" width="200" alt="饿了么"><br>
-      <sub></sub>
-    </td>
-    <!-- 第三张二维码（如果只有两张，把这一段 <td>...</td> 删掉即可） -->
-    <!-- <td align="center" valign="top">
-      <img src="https://example.com" width="200" alt="其他优惠"><br>
-      <sub>其他生活省钱福利</sub>
-    </td> -->
-  </tr>
-</table>
 <!-- 整个区域居中显示 -->
 <div align="center">
 
